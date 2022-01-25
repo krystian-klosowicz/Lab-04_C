@@ -1,0 +1,15 @@
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.csproj.AssemblyReference.cache
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfoInputs.cache
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.AssemblyInfo.cs
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.csproj.CoreCompileInputs.cache
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\lab4.exe
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\lab4.deps.json
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\lab4.runtimeconfig.json
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\lab4.dll
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\ref\lab4.dll
+D:\!STUDIA\C#\lab4\lab4\bin\Debug\net6.0\lab4.pdb
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.dll
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\ref\lab4.dll
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.pdb
+D:\!STUDIA\C#\lab4\lab4\obj\Debug\net6.0\lab4.genruntimeconfig.cache
